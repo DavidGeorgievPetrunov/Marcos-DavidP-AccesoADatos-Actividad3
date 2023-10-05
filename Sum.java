@@ -27,5 +27,6 @@ public class Sum {
 
     public void printSum (){
         System.out.println(this.getA() + this.getB());
+        System.out.println("Esto es una suma:");
     }
 }
