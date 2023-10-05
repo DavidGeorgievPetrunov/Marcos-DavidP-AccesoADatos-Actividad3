@@ -1,9 +1,3 @@
-# Marcos-DavidP-AccesoADatos-Actividad3
-
-
-# Esto es una muestra de como podemos emplear  git en el proceso de creacion de nuestro programa sumador y restador de numeros
-
-```java
 public class Sum {
     private  int a ;
     private  int b ;
@@ -35,5 +29,3 @@ public class Sum {
         System.out.println(this.getA() + this.getB());
     }
 }
-
-```
