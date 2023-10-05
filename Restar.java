@@ -8,7 +8,7 @@ public class Restar {
         restarOperacion();
     }
 
-    private int restarOperacion() {
-        return this.a-this.b;
+    private void restarOperacion() {
+        System.out.println(this.a-this.b);
     }
 }
